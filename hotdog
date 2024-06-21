@@ -1,0 +1,50 @@
+[
+  {
+    "id": "28",
+    "name": "Canadian Hot Dog",
+    "propellant": "$100",
+    "destination": "Alpha Centauri A",
+    "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WdSZ3b3egna-RaWcPGYt8ubqtlVw__xvaQ&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "29",
+    "name": "Polska",
+    "propellant": "$110",
+    "destination": "Proxima Centauri",
+    "imageurl":"https://images.unsplash.com/photo-1613482084286-41f25b486fa2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdCUyMGRvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "technologyexists": "0"
+  },
+  {
+    "id": "30",
+    "name": "Indian Hot Dog",
+    "propellant": "$99",
+    "destination": "Venus",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAQu2TNfYrQf50S7do-IEIawWFY4h8SisbCA&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "31",
+    "name": "Lankan",
+    "propellant": "$160",
+    "destination": "Saturn",
+    "imageurl": "https://media.istockphoto.com/photos/chicago-style-hot-dog-picture-id1313009273?b=1&k=20&m=1313009273&s=170667a&w=0&h=3f-FmnW5jLhZNSmojrLRh_B3P6pVrgoX-kL16aEOINg=",
+    "technologyexists": "0"
+  },
+  {
+    "id": "32",
+    "name": "U.S.A Hot Dog",
+    "propellant": "$310",
+    "destination": "Asteroid Belt",
+    "imageurl": "https://media.istockphoto.com/photos/chili-cheese-dog-picture-id143175178?b=1&k=20&m=143175178&s=170667a&w=0&h=MYiqTV1ZVnrkTeLxCb5YEAZJuq3Ha4C9V2zDnaq3-MY=",
+    "technologyexists": "1"
+  },
+  {
+    "id": "33",
+    "name": "Rusian",
+    "propellant": "$190",
+    "destination": "Canis Majos",
+    "imageurl": "https://images.unsplash.com/photo-1612392166886-ee8475b03af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90JTIwZG9nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "technologyexists": "0"
+  }
+]
