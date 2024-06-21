@@ -2,7 +2,7 @@
   {
     "id": "28",
     "name": "Mojo",
-    "propellant": "$60",
+    "propellant": "$61",
     "destination": "Alpha Centauri A",
     "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lmNiAYV-UTFH82aIHlUASjlS5d-G_q5A-A&usqp=CAU",
     "technologyexists": "1"
