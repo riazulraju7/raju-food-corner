@@ -1,0 +1,66 @@
+[
+  {
+    "id": "28",
+    "name": "Mojo",
+    "propellant": "$60",
+    "destination": "Alpha Centauri A",
+    "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lmNiAYV-UTFH82aIHlUASjlS5d-G_q5A-A&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "29",
+    "name": "Speed",
+    "propellant": "$90",
+    "destination": "Proxima Centauri",
+    "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_wvGestjyU0nF8xzYwAj8a9rlsHFrr0SZA&usqp=CAU",
+    "technologyexists": "0"
+  },
+  {
+    "id": "30",
+    "name": "Fanta",
+    "propellant": "$100",
+    "destination": "Venus",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTkjIhLNcUYHYPLqvfeKz_AeaPGPxP301iw&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "31",
+    "name": "Pepsi",
+    "propellant": "$140",
+    "destination": "Saturn",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAa9SGsWSVNcBV9mNZEn-HWw2w6W3-hDGYJtO6AZdhOeD9hz3GDJMQ34R-3kSJJjOfpMI&usqp=CAU",
+    "technologyexists": "0"
+  },
+  {
+    "id": "32",
+    "name": "Mountain Dew",
+    "propellant": "$160",
+    "destination": "Asteroid Belt",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcPJ3xsNwmnFgiKJQKJs-VTii-6usOLKrecdgY6MZYo745BB2UxR3mhETwg3SwsSW-nQ&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "33",
+    "name": "CocaCola",
+    "propellant": "$200",
+    "destination": "Canis Majos",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLx-wrEk7EEfWCAQVSBBUaDO2MDwyRKrZzTC1GGUpMxOBHBpPJEYXsjiPoM2aj3ETkYNE&usqp=CAU",
+    "technologyexists": "0"
+  },
+  {
+    "id": "34",
+    "name": "Isostar",
+    "propellant": "$300",
+    "destination": "Uranus",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJA-KPxT-jtbK44rAZAPj3D7GWjHEoryI0lVp5RGy6b2lWroEvgLjhPxffzN03qZ6Qwjk&usqp=CAU",
+    "technologyexists": "1"
+  },
+  {
+    "id": "35",
+    "name": "Bavaria",
+    "propellant": "$360",
+    "destination": "Pluto",
+    "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1NF24UWUvvK7RtTvD4smeUJ2fDQULunXPw&usqp=CAU",
+    "technologyexists": "0"
+  }
+]
