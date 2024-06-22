@@ -10,9 +10,9 @@
   {
     "id": "29",
     "name": "Speed",
-    "propellant": "$90",
+    "propellant": "$80",
     "destination": "Proxima Centauri",
-    "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_wvGestjyU0nF8xzYwAj8a9rlsHFrr0SZA&usqp=CAU",
+    "imageurl":"https://i0.wp.com/www.khan.com.bd/wp-content/uploads/2020/12/Speed-Can-Energy-Drink.jpg?fit=1200%2C1200&ssl=1",
     "technologyexists": "0"
   },
   {
